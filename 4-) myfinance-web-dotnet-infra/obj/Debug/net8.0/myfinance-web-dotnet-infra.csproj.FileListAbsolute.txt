@@ -1,0 +1,16 @@
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\bin\Debug\net8.0\myfinance-web-dotnet-infra.deps.json
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\bin\Debug\net8.0\myfinance-web-dotnet-infra.dll
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\bin\Debug\net8.0\myfinance-web-dotnet-infra.pdb
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.AssemblyInfoInputs.cache
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.AssemblyInfo.cs
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.csproj.CoreCompileInputs.cache
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.sourcelink.json
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.dll
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\refint\myfinance-web-dotnet-infra.dll
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.pdb
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\ref\myfinance-web-dotnet-infra.dll
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\bin\Debug\net8.0\myfinance-web-dotnet-domain.dll
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\bin\Debug\net8.0\myfinance-web-dotnet-domain.pdb
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinance-web-dotnet-infra.csproj.AssemblyReference.cache
+C:\Users\anarp\Desktop\EngenhriaDeSoftware\PraticasImplementacao\MyFinance\myfinance-web-netcore\4-) myfinance-web-dotnet-infra\obj\Debug\net8.0\myfinanc.8809030A.Up2Date
