@@ -641,6 +641,7 @@
       },
       "myfinance-web-dotnet-service/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.2",
           "myfinance-web-dotnet-domain": "1.0.0",
           "myfinance-web-dotnet-infra": "1.0.0"
         },

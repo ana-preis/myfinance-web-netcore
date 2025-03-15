@@ -36,6 +36,7 @@ namespace myfinance_web_dotnet_service
         public void Register(PlanoConta Entity)
         {
             var dbSet = _dbContext.PlanoConta;
+            
             if (Entity.Id == null)
             {
                 dbSet.Add(Entity);

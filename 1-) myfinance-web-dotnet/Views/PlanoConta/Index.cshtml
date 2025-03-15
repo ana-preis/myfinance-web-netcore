@@ -1,0 +1,57 @@
+@using myfinance_web_dotnet.Models
+
+@{
+  ViewData["Title"] = "Plano de Contas";
+}
+<h1>
+  @ViewData["Title"]
+</h1>
+<button type="button" class="btn btn-block btn-primary" onclick="New()">
+  Criar item de Plano de Conta
+</button>
+<br><br>
+<table class="table table-bordered">
+  <tr>
+    <th>Id</th>
+    <th>Descrição</th>
+    <th>Tipo</th>
+    <th>#</th>
+    <th>#</th>
+  </tr>
+
+  @{
+    
+    foreach (var item in (List<PlanoContaModel>)ViewBag.ListaPlanoConta)
+      {
+        <tr>
+          <td>@item.Id</td>
+          <td>@item.Descricao</td>
+          <td>@item.Tipo</td>
+          <td>
+            <button type="button" class="btn btn-block btn-outline-warning" onclick="Update(@item.Id.ToString())">Editar</button>
+          </td>
+          <td>
+            <button type="button" class="btn btn-block btn-outline-danger" onclick="Delete(@item.Id.ToString())">Excluir</button>
+          </td>
+        </tr>
+      }
+  }
+
+</table>
+
+<script>
+  function New()
+  {
+    window.location.href = "../PlanoConta/Cadastrar";
+  }
+
+  function Update(id)
+  {
+    window.location.href = "../PlanoConta/Cadastrar/" + id;
+  }
+
+  function Delete(id)
+  {
+    window.location.href = "../PlanoConta/Excluir/" + id;
+  }
+</script>
